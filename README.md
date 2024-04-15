@@ -28,7 +28,9 @@ Step 7: Save and run the application.
 ## Program:
 
 Program to create simple calculator using Android Studio.
+
 Developed by: Sriram G
+
 RegisterNumber:  212222230149
 
 ## MainActivity.java:
